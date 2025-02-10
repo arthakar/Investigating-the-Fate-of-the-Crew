@@ -8,24 +8,24 @@ Intially unsure about how to process the fields. First step was to graph the dat
 Significant fields considered:
 
 For crewmate:
- # 0th col: Tasks Completed
- # 1st col: All Tasks Completed?
- # 2nd col: Murdered?
- # 3rd col: Crewmate Game Length
- # 4th col: Ejected?
- # 5th col: Sabotages Fixed
- # 6th col: Time to Complete All Tasks
- # 7th col: NA Player Region
- # 8th col: Europe Player Region
- # 9th col: Outcome (Win = 1; Loss = 0)
+* # 0th col: Tasks Completed
+* # 1st col: All Tasks Completed?
+* # 2nd col: Murdered?
+* # 3rd col: Crewmate Game Length
+* # 4th col: Ejected?
+* # 5th col: Sabotages Fixed
+* # 6th col: Time to Complete All Tasks
+* # 7th col: NA Player Region
+* # 8th col: Europe Player Region
+* # 9th col: Outcome (Win = 1; Loss = 0)
 
 For impostor:
- # 0th col: Imposter Kills
- # 1st col: Imposter Game Length
- # 2nd col: Ejected?
- # 3rd col: NA Player Region
- # 4th col: Europe Player Region
- # 5th col: Outcome (Win = 1; Loss = 0)
+* # 0th col: Imposter Kills
+* # 1st col: Imposter Game Length
+* # 2nd col: Ejected?
+* # 3rd col: NA Player Region
+* # 4th col: Europe Player Region
+* # 5th col: Outcome (Win = 1; Loss = 0)
 
 Neural network like one that was used in MNIST, but with tweaks to the amount of nodes,layers, epochs, and batch sizes.
 
