@@ -3,6 +3,9 @@
 Created on Tue Jan 25 11:44:40 2022
 
 @author: 848223
+
+Source for dataset: https://www.kaggle.com/ruchi798/among-us-dataset
+
 """
 
 import numpy as np
